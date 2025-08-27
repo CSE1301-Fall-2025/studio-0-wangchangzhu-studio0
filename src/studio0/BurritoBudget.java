@@ -16,6 +16,8 @@ public class BurritoBudget {
 		
 		System.out.println("You have spent an average of $" + averageWeeklyPrice + " per week on burritos.");
 		System.out.println("Can you afford to buy 10 burritos in one week? " + (averageWeeklyPrice * 10 < 100));
+		System.out.println("Is Burritos really that delicious?");
+		
 	
 	}
 }
